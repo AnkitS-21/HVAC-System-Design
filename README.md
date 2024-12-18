@@ -42,18 +42,19 @@ Participants were tasked with:
 
 ---
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any questions or feedback, please reach out to singh.ankit@iitgn.ac.in .
+
+---
+
+© 2024 Ankit Singh
+
 ## **Repository Structure**  
 ```plaintext
 ├── Models/               # Simulink models and simulation files  
 ├── Documentation/        # Problem statement, design methodology, and system description  
 ├── README.md             # Overview and instructions (this file)  
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or feedback, please reach out to pranjal.gaur@iitgn.ac.in or singh.ankit@iitgn.ac.in .
-
----
-
-© 2024 Pranjal Gaur
