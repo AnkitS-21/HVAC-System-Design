@@ -46,6 +46,4 @@ Participants were tasked with:
 ```plaintext
 ├── Models/               # Simulink models and simulation files  
 ├── Documentation/        # Problem statement, design methodology, and system description  
-├── Results/              # Simulation results and performance analysis  
-├── Scripts/              # MATLAB scripts for pre/post-processing  
 ├── README.md             # Overview and instructions (this file)  
